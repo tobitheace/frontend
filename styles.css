@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 50%;
+    float: left;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    width: 50%;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 2em;
+}
+
+.flex-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
